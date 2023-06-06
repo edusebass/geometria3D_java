@@ -44,7 +44,6 @@ public class figuras3D {
     private double volumenPiramide(double areaBase, double ladoBase, double altura) {
         volumenPiramide = (1.0 / 3.0) * areaBase * ladoBase * altura;
         return volumenPiramide;
-
     }
 }
 
